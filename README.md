@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+Don't say "ai says..." – tell me what you think.
+
 <!--
 **AxyLm/axylm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
